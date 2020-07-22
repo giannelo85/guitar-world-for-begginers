@@ -1,0 +1,24 @@
+
+<link href="https://fonts.googleapis.com/css2?family=Gayathri&display=swap" rel="stylesheet">
+
+
+
+
+
+
+         CSS
+font-family: 'Gayathri', sans-serif;
+
+
+
+import
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Gayathri&display=swap');
+</style>
+
+
+
+
+Colour
+#6718F0
